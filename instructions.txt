@@ -1,0 +1,8 @@
+alloc
+dealloc
+push
+lock
+goto
+if
+if-else
+class
